@@ -20,6 +20,7 @@
 - 🎓 **MSc Data Science (M2DS)** at **École Polytechnique** + **Master of Engineering** at **Télécom Paris**
 - 💼 **ML Engineer Intern @ Wiremind** — working on time series forecasting
 - 🧠 Deep interest in **NLP** — implemented a GPT-2 style transformer from scratch and fine-tuned it for email fraud detection
+- ⚽ Built a **real-time football RAG system** — streams live match events via Kafka and lets you chat with an AI that knows exactly what's happening in the game
 - 🔎 Built an **AI pipeline for open-source license detection** — combines ScanCode static analysis with Mistral AI to infer SPDX licenses, achieving 0.84 Repo-F1 on a benchmark of 100 GitHub repositories
 - 🏆 **Top 10 / 500+** in Morocco's National Competitive Programming Contest (2021)
 - 🌍 French · English (C1+) · Arabic · Spanish
@@ -64,6 +65,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [gpt-from-scratch](https://github.com/YassineMA03/gpt-from-scratch) | GPT-2 transformer built from scratch — multi-head attention, causal masking, full training pipeline | Python · PyTorch · FastAPI · Docker |
-| [Real-time-football-rag](https://github.com/YassineMA03/Real-time-football-rag) | Real-time football data pipeline with RAG | Python · TypeScript · LLMs |
+| [Real-time-football-rag](https://github.com/YassineMA03/Real-time-football-rag) | Streams live match events via Kafka, tracks the last 30 events as context, and powers an AI chatbot that answers questions about the game in real time | Python · Kafka · Mistral AI · TypeScript |
 | [capstone-project](https://github.com/YassineMA03/capstone-project) | Modular pipeline that downloads license files, scans them with ScanCode, and uses Mistral AI to infer SPDX licenses — 0.84 Repo-F1 on 100 repos | Python · Mistral AI |
 | [NBA](https://github.com/YassineMA03/NBA) | NBA analytics and visualisation | JavaScript · Python · Jupyter |
