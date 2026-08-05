@@ -18,7 +18,7 @@
 ## About me
 
 - 🎓 **MSc Data Science (M2DS)** at **École Polytechnique** + **Master of Engineering** at **Télécom Paris**
-- 💼 **ML Engineer Intern @ Wiremind** — causal forecasting with TSMixer, large-scale transportation data (billions of records)
+- 💼 **ML Engineer Intern @ Wiremind** — working on time series forecasting
 - 🧠 Deep interest in **NLP** — implemented a GPT-2 style transformer from scratch and fine-tuned it for email fraud detection
 - 📄 Analyzed **ERG** (NeurIPS 2025) — inference-time guidance for diffusion models via Hopfield energy manipulation
 - 🏆 **Top 10 / 500+** in Morocco's National Competitive Programming Contest (2021)
