@@ -20,7 +20,7 @@
 - 🎓 **MSc Data Science (M2DS)** at **École Polytechnique** + **Master of Engineering** at **Télécom Paris**
 - 💼 **ML Engineer Intern @ Wiremind** — working on time series forecasting
 - 🧠 Deep interest in **NLP** — implemented a GPT-2 style transformer from scratch and fine-tuned it for email fraud detection
-- 📄 Analyzed **ERG** (NeurIPS 2025) — inference-time guidance for diffusion models via Hopfield energy manipulation
+- 🔎 Built an **AI pipeline for open-source license detection** — combines ScanCode static analysis with Mistral AI to infer SPDX licenses, achieving 0.84 Repo-F1 on a benchmark of 100 GitHub repositories
 - 🏆 **Top 10 / 500+** in Morocco's National Competitive Programming Contest (2021)
 - 🌍 French · English (C1+) · Arabic · Spanish
 
@@ -65,5 +65,5 @@
 |---|---|---|
 | [gpt-from-scratch](https://github.com/YassineMA03/gpt-from-scratch) | GPT-2 transformer built from scratch — multi-head attention, causal masking, full training pipeline | Python · PyTorch · FastAPI · Docker |
 | [Real-time-football-rag](https://github.com/YassineMA03/Real-time-football-rag) | Real-time football data pipeline with RAG | Python · TypeScript · LLMs |
-| [capstone-project](https://github.com/YassineMA03/capstone-project) | AI pipeline for open-source license detection with LLM reasoning (Mistral Small 3.2) — 0.84 Repo-F1 | Python |
+| [capstone-project](https://github.com/YassineMA03/capstone-project) | Modular pipeline that downloads license files, scans them with ScanCode, and uses Mistral AI to infer SPDX licenses — 0.84 Repo-F1 on 100 repos | Python · Mistral AI |
 | [NBA](https://github.com/YassineMA03/NBA) | NBA analytics and visualisation | JavaScript · Python · Jupyter |
